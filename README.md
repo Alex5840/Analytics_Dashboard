@@ -107,7 +107,7 @@ POST /track
 
 ### Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/product-analytics-dashboard.git  
+git clone https://github.com/Alex5840/Analytics_Dashboard.git
 cd product-analytics-dashboard  
 
 ---
